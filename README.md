@@ -60,7 +60,7 @@ The assignments in this repository leverage the following tools and libraries:
 ## 📝 Author  
 
 **Sai Teja**  
-- 💼 [LinkedIn](https://[www.linkedin.com/in/sai-teja-perikili])  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sai-teja-perikili/)  
 - 📧 Email: saiteja1903@gmail.com  
 
 ---
